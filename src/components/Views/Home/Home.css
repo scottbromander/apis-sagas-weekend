@@ -1,0 +1,6 @@
+.movie-cell {
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+    margin: 10px;
+    border-radius: 8px;
+}
